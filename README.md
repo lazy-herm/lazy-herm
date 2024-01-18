@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ... Marc
 - 👀 I’m interested in ... data processing, manipulation and presentation. As an ex-accountant I have a bias towards those things.
-- 🌱 I’m currently learning ... Ionic. Recently learnt React but may convert to Angular. I have a solid base in PHP and Visual Basic.
-- 💞️ I’m looking to collaborate on ... anything that involves data analyitcs. Personal hobby includes a personal finance app and goal setting app.
-- 📫 How to reach me ... on tiwtter @lazyherm
+- 🌱 I’m currently learning ... NextJS and CompTIA A+.
+- 💞️ I’m looking to collaborate on ... anything.
+- 📫 How to reach me ... on tiwtter ww.vautheny.com
 
 <!---
 lazy-herm/lazy-herm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
