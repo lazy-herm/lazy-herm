@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... data processing, manipulation and presentation. As an ex-accountant I have a bias towards those things.
 - 🌱 I’m currently learning ... NextJS and CompTIA A+.
 - 💞️ I’m looking to collaborate on ... anything.
-- 📫 How to reach me ... on tiwtter ww.vautheny.com
+- 📫 How to reach me ... on tiwtter [www.vautheny.com](https://www.vautheny.com)
 
 <!---
 lazy-herm/lazy-herm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
