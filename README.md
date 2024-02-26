@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ... Marc
-- 👀 I’m interested in ... data processing, manipulation and presentation. As an ex-accountant I have a bias towards those things.
-- 🌱 I’m currently learning ... NextJS and CompTIA A+.
+- 👀 I’m interested in ... data processing, manipulation and presentation.
+- 🌱 I’m currently learning ... NextJS + Cybersecuirty.
 - 💞️ I’m looking to collaborate on ... anything.
 - 📫 How to reach me ... [www.vautheny.com](https://www.vautheny.com)
 
